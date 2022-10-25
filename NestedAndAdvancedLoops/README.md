@@ -1,0 +1,1 @@
+More simple Loop tasks
